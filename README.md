@@ -1,4 +1,4 @@
-La solucion se implemento en .NET Core y SQL por lo que se necesita un servidor de base de datos corriendo 
+La solucion se implemento en .NET Core (Visual Studio 2017 como IDE) y SQL por lo que se necesita un servidor de base de datos corriendo 
 Hay una API con lo minimo requerido y una UI que la consume, obviamente ambos proyectos deben estar corriendo a la vez 
 La UI fue hecha solo a fines de poder consumir la api y la autenticacion, favor de no evaluar estetica
 
