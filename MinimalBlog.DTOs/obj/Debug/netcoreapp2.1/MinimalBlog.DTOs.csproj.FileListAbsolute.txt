@@ -1,0 +1,9 @@
+C:\MakingSense\MinimalBlog\MinimalBlog.DTOs\bin\Debug\netcoreapp2.1\MinimalBlog.DTOs.deps.json
+C:\MakingSense\MinimalBlog\MinimalBlog.DTOs\bin\Debug\netcoreapp2.1\MinimalBlog.DTOs.dll
+C:\MakingSense\MinimalBlog\MinimalBlog.DTOs\bin\Debug\netcoreapp2.1\MinimalBlog.DTOs.pdb
+C:\MakingSense\MinimalBlog\MinimalBlog.DTOs\obj\Debug\netcoreapp2.1\MinimalBlog.DTOs.csprojAssemblyReference.cache
+C:\MakingSense\MinimalBlog\MinimalBlog.DTOs\obj\Debug\netcoreapp2.1\MinimalBlog.DTOs.csproj.CoreCompileInputs.cache
+C:\MakingSense\MinimalBlog\MinimalBlog.DTOs\obj\Debug\netcoreapp2.1\MinimalBlog.DTOs.AssemblyInfoInputs.cache
+C:\MakingSense\MinimalBlog\MinimalBlog.DTOs\obj\Debug\netcoreapp2.1\MinimalBlog.DTOs.AssemblyInfo.cs
+C:\MakingSense\MinimalBlog\MinimalBlog.DTOs\obj\Debug\netcoreapp2.1\MinimalBlog.DTOs.dll
+C:\MakingSense\MinimalBlog\MinimalBlog.DTOs\obj\Debug\netcoreapp2.1\MinimalBlog.DTOs.pdb

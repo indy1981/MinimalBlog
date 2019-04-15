@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "MinimalBlog.Services/1.0.0": {
+        "dependencies": {
+          "MinimalBlog.IRepositories": "1.0.0",
+          "MinimalBlog.Models": "1.0.0"
+        },
+        "runtime": {
+          "MinimalBlog.Services.dll": {}
+        }
+      },
+      "MinimalBlog.IRepositories/1.0.0": {
+        "dependencies": {
+          "MinimalBlog.Models": "1.0.0"
+        },
+        "runtime": {
+          "MinimalBlog.IRepositories.dll": {}
+        }
+      },
+      "MinimalBlog.Models/1.0.0": {
+        "runtime": {
+          "MinimalBlog.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinimalBlog.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MinimalBlog.IRepositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MinimalBlog.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

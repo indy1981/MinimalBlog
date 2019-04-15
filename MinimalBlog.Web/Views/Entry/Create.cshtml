@@ -1,0 +1,32 @@
+﻿@model MinimalBlog.DTOs.EntryViewModel
+
+<h3>Create new Entry</h3>
+<div class="container">
+    
+    <form asp-controller="Entry" asp-action="SaveAsync" method="post">
+        <div class="form-group">
+            <label>Title</label>
+            <input class="form-control" type="text" id="Title" name="Title" />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label>Summary</label>
+            <input class="form-control" type="text" id="Summary" name="Summary" />
+        </div>
+        <div class="form-group">
+            <label>Content</label>            
+            <textarea class="form-control"  asp-for="Content"></textarea>
+        </div>
+        <div class="form-group">
+            <label>Image (url)</label>
+            <input class="form-control" type="text" id="Image" name="Image" />
+        </div>
+        <div class="form-check">
+            <label>Is private?</label>
+            <input asp-for="IsPrivate">
+        </div>
+        <button type="submit" class="nav-link btn btn-link">Save entry</button>
+    </form>
+
+</div>
+

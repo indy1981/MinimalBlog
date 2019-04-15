@@ -1,0 +1,8 @@
+C:\MakingSense\MinimalBlog\MinimalBlog.Models\bin\Debug\netcoreapp2.2\MinimalBlog.Models.deps.json
+C:\MakingSense\MinimalBlog\MinimalBlog.Models\bin\Debug\netcoreapp2.2\MinimalBlog.Models.dll
+C:\MakingSense\MinimalBlog\MinimalBlog.Models\bin\Debug\netcoreapp2.2\MinimalBlog.Models.pdb
+C:\MakingSense\MinimalBlog\MinimalBlog.Models\obj\Debug\netcoreapp2.2\MinimalBlog.Models.csproj.CoreCompileInputs.cache
+C:\MakingSense\MinimalBlog\MinimalBlog.Models\obj\Debug\netcoreapp2.2\MinimalBlog.Models.AssemblyInfoInputs.cache
+C:\MakingSense\MinimalBlog\MinimalBlog.Models\obj\Debug\netcoreapp2.2\MinimalBlog.Models.AssemblyInfo.cs
+C:\MakingSense\MinimalBlog\MinimalBlog.Models\obj\Debug\netcoreapp2.2\MinimalBlog.Models.dll
+C:\MakingSense\MinimalBlog\MinimalBlog.Models\obj\Debug\netcoreapp2.2\MinimalBlog.Models.pdb

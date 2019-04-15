@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MinimalBlog.IRepositories\MinimalBlog.IRepositories.csproj" />
+    <ProjectReference Include="..\MinimalBlog.Models\MinimalBlog.Models.csproj" />
+  </ItemGroup>
+
+</Project>

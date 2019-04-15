@@ -1,0 +1,11 @@
+C:\MakingSense\MinimalBlog\MinimalBlog.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\MakingSense\MinimalBlog\MinimalBlog.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\MakingSense\MinimalBlog\MinimalBlog.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\MakingSense\MinimalBlog\MinimalBlog.Test\bin\Debug\netcoreapp2.1\MinimalBlog.Test.deps.json
+C:\MakingSense\MinimalBlog\MinimalBlog.Test\bin\Debug\netcoreapp2.1\MinimalBlog.Test.runtimeconfig.json
+C:\MakingSense\MinimalBlog\MinimalBlog.Test\bin\Debug\netcoreapp2.1\MinimalBlog.Test.runtimeconfig.dev.json
+C:\MakingSense\MinimalBlog\MinimalBlog.Test\bin\Debug\netcoreapp2.1\MinimalBlog.Test.dll
+C:\MakingSense\MinimalBlog\MinimalBlog.Test\obj\Debug\netcoreapp2.1\MinimalBlog.Test.csprojAssemblyReference.cache
+C:\MakingSense\MinimalBlog\MinimalBlog.Test\obj\Debug\netcoreapp2.1\MinimalBlog.Test.csproj.CoreCompileInputs.cache
+C:\MakingSense\MinimalBlog\MinimalBlog.Test\obj\Debug\netcoreapp2.1\MinimalBlog.Test.AssemblyInfoInputs.cache
+C:\MakingSense\MinimalBlog\MinimalBlog.Test\obj\Debug\netcoreapp2.1\MinimalBlog.Test.AssemblyInfo.cs

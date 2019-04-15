@@ -1,0 +1,16 @@
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\bin\Debug\netcoreapp2.2\MinimalBlog.Web.deps.json
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\bin\Debug\netcoreapp2.2\MinimalBlog.Web.runtimeconfig.json
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\bin\Debug\netcoreapp2.2\MinimalBlog.Web.runtimeconfig.dev.json
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\bin\Debug\netcoreapp2.2\MinimalBlog.Web.dll
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\bin\Debug\netcoreapp2.2\MinimalBlog.Web.pdb
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\bin\Debug\netcoreapp2.2\MinimalBlog.Models.dll
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\bin\Debug\netcoreapp2.2\MinimalBlog.Models.pdb
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\obj\Debug\netcoreapp2.2\MinimalBlog.Web.csprojAssemblyReference.cache
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\obj\Debug\netcoreapp2.2\MinimalBlog.Web.csproj.CoreCompileInputs.cache
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\obj\Debug\netcoreapp2.2\MinimalBlog.Web.AssemblyInfoInputs.cache
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\obj\Debug\netcoreapp2.2\MinimalBlog.Web.AssemblyInfo.cs
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\obj\Debug\netcoreapp2.2\MinimalBlog.Web.csproj.CopyComplete
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\obj\Debug\netcoreapp2.2\MinimalBlog.Web.dll
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\obj\Debug\netcoreapp2.2\MinimalBlog.Web.pdb
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\bin\Debug\netcoreapp2.2\MinimalBlog.DTOs.dll
+C:\MakingSense\MinimalBlog\MinimalBlog.Web\bin\Debug\netcoreapp2.2\MinimalBlog.DTOs.pdb

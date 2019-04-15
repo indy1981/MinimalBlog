@@ -1,0 +1,10 @@
+﻿@model MinimalBlog.Models.Entry;
+<link href="~/css/showEntry.css" rel="stylesheet" />
+<div>
+    <h3>@Model.Title</h3>
+
+    <h5>Created by @Model.Author.Username at @Model.Created.ToShortDateString()</h5>
+    <img class="entryImage" src="@(Model.Image ?? "/images/no-image.png")" />
+    <h4>@Model.Summary</h4>
+    <h5>@Model.Content</h5>
+</div>

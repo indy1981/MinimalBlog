@@ -1,0 +1,34 @@
+﻿@model IndexModel;
+@{
+    ViewData["Title"] = "Minimal Blog";
+}
+<link href="~/css/home.css" rel="stylesheet" />
+<header>
+    <h1>Minimal Blog</h1>
+    <h3>Less than this is not a blog!</h3>
+</header>
+
+<div class="row principalContent">
+    <aside class="col-md-1">
+        Great news here!       
+    </aside>  
+        <section class="col-md-8">
+            @foreach (var entry in Model.Entries)
+            {
+            <article>
+                <img class="entryImage" src="@(entry.Image ?? "/images/no-image.png")" />
+                <h4>@entry.Title</h4>
+                <h7>Posted by <b>@entry.Author.Username</b> at <b>@entry.Created.ToShortDateString()</b></h7>
+                <h7>State <b>@entry.State</b></h7>
+                <h5>@entry.Summary</h5>
+                <a href="/Entry/Show/@entry.Id" class="btn btn-secondary">Show more</a>
+            </article>
+                <hr />
+            }
+
+        </section>    
+    <aside class="col-md-3">
+        
+    </aside>
+    
+</div>

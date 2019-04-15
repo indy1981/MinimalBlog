@@ -1,0 +1,12 @@
+C:\MakingSense\MinimalBlog\MinimalBlog.IRepositories\bin\Debug\netcoreapp2.1\MinimalBlog.IRepositories.deps.json
+C:\MakingSense\MinimalBlog\MinimalBlog.IRepositories\bin\Debug\netcoreapp2.1\MinimalBlog.IRepositories.dll
+C:\MakingSense\MinimalBlog\MinimalBlog.IRepositories\bin\Debug\netcoreapp2.1\MinimalBlog.IRepositories.pdb
+C:\MakingSense\MinimalBlog\MinimalBlog.IRepositories\obj\Debug\netcoreapp2.1\MinimalBlog.IRepositories.csprojAssemblyReference.cache
+C:\MakingSense\MinimalBlog\MinimalBlog.IRepositories\obj\Debug\netcoreapp2.1\MinimalBlog.IRepositories.csproj.CoreCompileInputs.cache
+C:\MakingSense\MinimalBlog\MinimalBlog.IRepositories\obj\Debug\netcoreapp2.1\MinimalBlog.IRepositories.AssemblyInfoInputs.cache
+C:\MakingSense\MinimalBlog\MinimalBlog.IRepositories\obj\Debug\netcoreapp2.1\MinimalBlog.IRepositories.AssemblyInfo.cs
+C:\MakingSense\MinimalBlog\MinimalBlog.IRepositories\obj\Debug\netcoreapp2.1\MinimalBlog.IRepositories.dll
+C:\MakingSense\MinimalBlog\MinimalBlog.IRepositories\obj\Debug\netcoreapp2.1\MinimalBlog.IRepositories.pdb
+C:\MakingSense\MinimalBlog\MinimalBlog.IRepositories\bin\Debug\netcoreapp2.1\MinimalBlog.Models.dll
+C:\MakingSense\MinimalBlog\MinimalBlog.IRepositories\bin\Debug\netcoreapp2.1\MinimalBlog.Models.pdb
+C:\MakingSense\MinimalBlog\MinimalBlog.IRepositories\obj\Debug\netcoreapp2.1\MinimalBlog.IRepositories.csproj.CopyComplete
